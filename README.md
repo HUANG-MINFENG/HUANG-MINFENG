@@ -37,7 +37,7 @@ starting with **XReading**, an AI text‑to‑speech reader that works 100% on�
 
 *Articles are loaded dynamically on my personal site – check back soon or visit the link below.*
 
-- 📝 [My Personal Homepage](https://yourdomain.com) ← replace with your actual domain  
+- 📝 [My Personal Homepage](https://huangminfeng.netlify.app/) ← replace with your actual domain  
 
 *(You can also mirror your blog posts here as individual Markdown files in this repo.)*
 
